@@ -1,5 +1,5 @@
 ![logo](https://github.com/NobitaDeveloper/NobitaDeveloper/blob/main/a_702bca70640cd3c1afefc8c5c37a8dd0.gif)
-<h1 align="center">Hey, I'm Nobita</h1>
+<h1 align="center">Hi, I'm Nobita</h1>
 <h3 align="center">Python Developer <3</h3>
 
 - 🔭 I’m currently working on [KERiT V2](https://discord.com/api/oauth2/authorize?client_id=1033989201789718528&permissions=8&scope=bot)
@@ -9,6 +9,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/nobitadeveloper](https://github.com/nobitadeveloper)
 
 - 💬 Ask me about **Discord Bot Developing, Python**
+
+- 📫 How to reach me **https://discord.gg/TAvRkHceZc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
