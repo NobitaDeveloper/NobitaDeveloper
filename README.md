@@ -1,4 +1,4 @@
-<h2 align="center">Hey!, Nobita iz Here</h2>
+<h1 align="center">Hey, Nobita iz Here</h1>
 <h3 align="center">Python Developer <3</h3>
 
 - 🔭 I’m currently working on [KERiT V2](https://discord.com/api/oauth2/authorize?client_id=1033989201789718528&permissions=8&scope=bot)
