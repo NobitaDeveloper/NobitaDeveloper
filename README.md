@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Discord Bot Developing, Python**
 
-- 📫 How to reach me **https://discord.gg/TAvRkHceZc**
+- 📫 How to reach me - [Click Here](https://discord.gg/TAvRkHceZc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
