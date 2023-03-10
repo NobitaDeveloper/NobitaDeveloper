@@ -1,3 +1,4 @@
+![logo](https://github.com/NobitaDeveloper/NobitaDeveloper/blob/main/a_702bca70640cd3c1afefc8c5c37a8dd0.gif)
 <h1 align="center">Hey, I'm Nobita</h1>
 <h3 align="center">Python Developer <3</h3>
 
