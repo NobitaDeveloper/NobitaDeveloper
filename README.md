@@ -39,6 +39,7 @@ i run [**kerit cloud**](https://kerit.cloud/) — my own hosting platform — so
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20API-25A162?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Lavalink](https://img.shields.io/badge/Lavalink-FC3D44?style=for-the-badge&logo=apachegroovy&logoColor=white)
 
 **data**
 
