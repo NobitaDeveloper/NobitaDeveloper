@@ -38,7 +38,6 @@ i run [**kerit cloud**](https://kerit.cloud/) — my own hosting platform — so
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20API-25A162?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Lavalink](https://img.shields.io/badge/Lavalink-FC3D44?style=for-the-badge&logo=apachegroovy&logoColor=white)
