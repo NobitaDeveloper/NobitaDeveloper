@@ -75,6 +75,7 @@ i run [**kerit cloud**](https://kerit.cloud/) — my own hosting platform — so
 
 **monitoring & observability**
 
+![Better Stack](https://img.shields.io/badge/Better%20Stack-000000?style=for-the-badge&logo=betterstack&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=black)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
