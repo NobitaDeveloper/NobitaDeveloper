@@ -53,6 +53,7 @@ i run [**kerit cloud**](https://kerit.cloud/) — my own hosting platform — so
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-2563EB?style=for-the-badge&logo=pterodactyl&logoColor=white)
 ![Pelican](https://img.shields.io/badge/Pelican-E57000?style=for-the-badge&logo=pterodactyl&logoColor=white)
@@ -82,6 +83,10 @@ i run [**kerit cloud**](https://kerit.cloud/) — my own hosting platform — so
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 
 ---
 
@@ -97,4 +102,3 @@ i run [**kerit cloud**](https://kerit.cloud/) — my own hosting platform — so
 
 - discord: `kernel.root`
 - email: `kernel@kerit.cloud`
-- web: [kerit.cloud](https://kerit.cloud/)
